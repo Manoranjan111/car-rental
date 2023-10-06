@@ -1,0 +1,12 @@
+1. Create the Database:
+    rental_car
+
+2. Import SQL Files:
+    
+You can use PHPMyAdmin or command-line tools like mysql to import SQL files into the "rental_car" database. Below is an example of how to import SQL files using PHPMyAdmin:
+
+Open PHPMyAdmin in your web browser.
+Select the "rental_car" database.
+Go to the "Import" tab.
+Click on the "Choose File" button for each SQL file (agent.sql, users.sql, booked_car_details.sql, and added_vehicle.sql) and select the corresponding file car-rental/Databases.
+Click the "Go" or "Import" button to import each file into the database.
